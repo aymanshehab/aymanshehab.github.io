@@ -2240,7 +2240,7 @@ input, select, textarea {
 /* Form */
 
 	form {
-		margin: 2rem 1rem 2rem 1rem;
+		margin: 5rem 1rem 2rem 1rem;
 	}
 
 		form > :last-child {
